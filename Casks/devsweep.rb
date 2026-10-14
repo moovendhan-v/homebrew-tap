@@ -1,6 +1,6 @@
 cask "devsweep" do
-  version "1.0.0"
-  sha256 "17a97d5d4e761125d1c80b54c40a66abb8da32ca50f1dc53c56fd06a4de9994b"
+  version "1.2.0"
+  sha256 "bbf5c1b5dc1fc5c5bd544b76e422350d709a311aa582486457a5d87e9cd25089"
 
   url "https://github.com/moovendhan-v/devsweep/releases/download/v#{version}/DevSweep-#{version}.zip"
   name "DevSweep"
